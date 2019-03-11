@@ -1,11 +1,11 @@
 import firebase from 'firebase';
 
 const config = {
-    apiKey: 'AIzaSyBdJRsnUapWUeFWSePHjrxdkFKXBDxzA-0',
-    authDomain: 'meal-prep-9b30a.firebaseapp.com',
-    databaseURL: 'https://meal-prep-9b30a.firebaseio.com',
-    projectId: 'meal-prep-9b30a',
-    storageBucket: '',
-    messagingSenderId: '335187018575'
+    apiKey: 'AIzaSyB7bYYiDcp98Ooxnjb4m8Cjiw_L2jqkRtM',
+    authDomain: 'test-auth-esocial.firebaseapp.com',
+    databaseURL: 'https://test-auth-esocial.firebaseio.com',
+    projectId: 'test-auth-esocial',
+    storageBucket: 'test-auth-esocial.appspot.com',
+    messagingSenderId: '1079415264900'
 };
 firebase.initializeApp(config);
